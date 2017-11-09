@@ -1,0 +1,5 @@
+.vs
+[dD]ebug/
+__vm/vsarduino.h
+.vcxproj.filters
+.vcxproj.user
