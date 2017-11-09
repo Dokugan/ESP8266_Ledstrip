@@ -121,5 +121,5 @@ void sendBytes(const int numBytes, uint8_t output[])
 
 	
 		
-	noInterrupts();
+	//noInterrupts();
 }
